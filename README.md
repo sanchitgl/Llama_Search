@@ -14,11 +14,7 @@ Our results demonstrate that ensemble methods outperform individual approaches, 
 - **Datasets Used**:
   - **Scifact** (Scientific literature retrieval)
   - **MS Marco Tiny** (Real-world search queries)
-- **Performance Metrics**:
-  - **nDCG@10**
-  - **MAP@10**
-  - **Recall@10**
-  - **P@10**
+
 
 ## Methodology
 
